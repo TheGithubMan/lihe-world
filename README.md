@@ -1,2 +1,2 @@
 # lihe-world
-test
+test and info
